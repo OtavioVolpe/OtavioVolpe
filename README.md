@@ -1,12 +1,12 @@
-### Olá pessoal 👋, Meu nome é Otávio VOlpe
-#### Sou desenvolvedor Backend com foco em Java e MySQL
+# Olá pessoal 👋, Meu nome é Otávio Volpe
+## Desenvolvedor Backend com foco em Java e MySQL
 
-Estou me aprofundando em diversas habilidades de Backend para me aprimorar na área.
+Atualmente, estou investindo intensamente na minha evolução profissional através da graduação em **Engenharia de Software**. 🚀 Além disso, estou focado em **aprimorar minhas habilidades Backend** para construir soluções robustas e de alta performance. 🎓✨
 
-Skills: Java | SpringBoot | Quarkus | MySQL | PostgreSQL | JavaScript | HTML | CSS
+Skills: **Java | SpringBoot | Quarkus | MySQL | PostgreSQL | JavaScript | HTML | CSS**
 
 - 🔭 Estou atualmente trabalhando para entrar no mercado de trabalho.
-- 🌱 Estou atualmente estudando SpringBoot e Docker
+- 🌱 Estou atualmente estudando **SpringBoot** e **Docker**
 - 👯 Estou procurando colaborar em projetos de Backend 
 
 
