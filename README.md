@@ -28,14 +28,6 @@ Fora do trabalho, estou construindo projetos próprios em JavaScript para aprofu
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do Otávio](https://github-readme-stats-sigma-black.vercel.app/api?username=OtavioVolpe&show_icons=true&theme=radical&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=OtavioVolpe&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-volpe/)
