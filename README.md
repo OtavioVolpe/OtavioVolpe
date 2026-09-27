@@ -1,14 +1,44 @@
-# Olá pessoal 👋, Meu nome é Otávio Volpe
-## Desenvolvedor Backend com foco em Java e MySQL
+### Olá pessoal 👋, Meu nome é Otávio Volpe
 
-Atualmente, estou investindo intensamente na minha evolução profissional através da graduação em **Engenharia de Software**. 🚀 Além disso, estou focado em **aprimorar minhas habilidades Backend** para construir soluções robustas e de alta performance. 🎓✨
+#### Desenvolvedor Backend Jr | JavaScript (Node.js) & MySQL
 
-Skills: **Java | SpringBoot | Quarkus | MySQL | PostgreSQL | JavaScript | HTML | CSS**
+---
 
-- 🔭 Estou atualmente trabalhando para entrar no mercado de trabalho.
-- 🌱 Estou atualmente estudando **SpringBoot** e **Docker**
-- 👯 Estou procurando colaborar em projetos de Backend 
+Atualmente atuo como **Desenvolvedor Backend Júnior**, trabalhando com **Node.js** e **MySQL** no dia a dia, enquanto curso **Engenharia de Software**. 🎓
 
+Fora do trabalho, estou construindo projetos próprios em JavaScript para aprofundar meus conhecimentos em backend. 🚀
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OtavioVolpe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/otavio-volpe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/otavio_volpe/)  
+- 🌱 Atualmente estudando **Node.js** e aprofundando em **bancos de dados relacionais**
+- 💻 Desenvolvendo projetos pessoais em JavaScript para praticar e evoluir
+- 🤝 Aberto a colaborar em projetos de Backend
+- 📫 Como me encontrar: veja os links abaixo
 
+---
+
+### 🛠️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do Otávio](https://github-readme-stats.vercel.app/api?username=OtavioVolpe&show_icons=true&theme=radical&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVolpe&layout=compact&theme=radical&hide_border=true)
+
+![Streak de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=OtavioVolpe&theme=radical&hide_border=true)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-volpe/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otavio_volpe/)
