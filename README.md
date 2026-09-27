@@ -30,11 +30,9 @@ Fora do trabalho, estou construindo projetos próprios em JavaScript para aprofu
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do Otávio](https://github-readme-stats.vercel.app/api?username=OtavioVolpe&show_icons=true&theme=radical&hide_border=true)
+![Estatísticas do Otávio](https://github-readme-stats-sigma-black.vercel.app/api?username=OtavioVolpe&show_icons=true&theme=radical&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVolpe&layout=compact&theme=radical&hide_border=true)
-
-![Streak de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=OtavioVolpe&theme=radical&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=OtavioVolpe&layout=compact&theme=radical&hide_border=true)
 
 ---
 
