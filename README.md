@@ -4,11 +4,11 @@
 
 ---
 
-Atualmente atuo como **Desenvolvedor Backend Júnior**, trabalhando com **Node.js** e **MySQL** no dia a dia, enquanto curso **Engenharia de Software**. 🎓
+Atualmente atuo como **Desenvolvedor Backend Júnior**, trabalhando com **JavaScript** e **MySQL** no dia a dia, enquanto curso **Engenharia de Software**. 🎓
 
 Fora do trabalho, estou construindo projetos próprios em JavaScript para aprofundar meus conhecimentos em backend. 🚀
 
-- 🌱 Atualmente estudando **Node.js** e aprofundando em **bancos de dados relacionais**
+- 🌱 Aprofundando conhecimentos em **JavaScript** e **bancos de dados relacionais**
 - 💻 Desenvolvendo projetos pessoais em JavaScript para praticar e evoluir
 - 🤝 Aberto a colaborar em projetos de Backend
 - 📫 Como me encontrar: veja os links abaixo
